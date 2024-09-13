@@ -5,10 +5,10 @@ import (
 	"sync"
 
 	"github.com/k0kubun/pp"
+	"github.com/leafmoes/mtproto/telegram"
 	"github.com/xelaj/go-dry"
-	"github.com/xelaj/mtproto/telegram"
 
-	utils "github.com/xelaj/mtproto/examples/example_utils"
+	utils "github.com/leafmoes/mtproto/examples/example_utils"
 )
 
 func main() {
